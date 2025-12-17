@@ -1,0 +1,18 @@
+Data e Hora da Execução: 2025-11-19 09:03:22
+
+RELATÓRIO WORKBALANCE AI
+-------------------------
+Média de horas trabalhadas: 6.4h
+Desvio padrão de horas: 1.5
+Média de estresse: 2.6
+Colaborador mais estressado: Jorge
+Colaboradores com 5+ tarefas: ['Luna', 'Amanda', 'Henrique']
+Alerta de equilíbrio: ['Jorge']
+
+
+Feedbacks Personalizados:
+Luna: nível de estresse elevado. Considere mais pausas para manter o equilíbrio.
+Jorge: alta carga e poucas pausas. Sugestão: reorganize suas tarefas.
+Amanda: ótimo desempenho! Continue equilibrando suas pausas.
+Henrique: ótimo desempenho! Continue equilibrando suas pausas.
+Pedro: bom equilíbrio geral. Mantenha o foco na produtividade.
